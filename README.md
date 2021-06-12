@@ -39,7 +39,7 @@ Delete Button . Pin 10
 Bank Button ... Pin 9 
 Big Button .... Pin A4 
 Reset Button .. Pin 11 
-Fill Button ... Pin 8/
+Fill Button ... Pin 8
 
 Channel Select Switch .. Pin (A0) 
 Step Length Knob ....... Pin (A1) 
