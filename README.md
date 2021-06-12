@@ -65,9 +65,9 @@ More to be added:
 ```
 
 
-Main idea by Sam Battle (LMNC)
+Main idea by Sam Battle (LMNC) [https://www.lookmumnocomputer.com/big-button]
 
-Refactored code by Yukonnor
+Refactored code by Yukonnor [https://gist.github.com/yukonnor/6c918a18d55da1dd4eb7bec771450d5a]
 
 
 ENJOY!
