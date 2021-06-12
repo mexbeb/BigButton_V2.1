@@ -31,7 +31,7 @@ MIDI channel is set to 11, but you can edit in the code, choosing from 1 to 16.
 
 Pin mapping on the arduino is different:
 ```
-MIDI Input ... Pin 1 (RX)
+MIDI Input ... Pin 0 (RX)
 
 Clock Input ... Pin 2 
 Clear Button .. Pin 12 
