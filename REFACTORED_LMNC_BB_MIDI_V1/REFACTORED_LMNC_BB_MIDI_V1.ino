@@ -7,7 +7,7 @@
 //
 //THE BIG BUTTON DRUM SEQUENCER/TRIGGER
 //
-// MIDI Input ... Pin 1 (RX) -> refer to standard MIDI connection with Arduino (6N138 Optoisolator + diode + resistor)
+// MIDI Input ... Pin 0 (RX) -> refer to standard MIDI connection with Arduino (6N138 Optoisolator + diode + resistor)
 
 // Clock Input ... Pin 2 (available for "Interrupts")
 // Clear Button .. Pin 12 (clears the entire loop sequence for the current channel and bank)
