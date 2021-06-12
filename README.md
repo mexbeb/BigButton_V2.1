@@ -1,6 +1,8 @@
 # BigButton_V2.1
 yukonnor LMNC big button trigger/sequencer refactored code with MIDI IN, Audit mode (triggering by pressing button) and more to come.
 
+See how it works: https://youtu.be/iRA2miDGCVI
+
 ![Preview](https://raw.githubusercontent.com/mexbeb/BigButton_V2.1/main/BB_MIDI.JPG)
 
 [[INPUT_PULLUP VERSION]]
